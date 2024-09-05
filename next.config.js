@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  basePath: "Task2",
-  output: "export",
-};
+const nextConfig = {};
 
 export default nextConfig;
